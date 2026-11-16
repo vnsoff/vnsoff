@@ -36,13 +36,5 @@
 <div align=left>
 <a href="https://www.linkedin.com/in/vnsoff/"><img src="https://img.shields.io/badge/Linkedin-282A36?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 <br>
-  vanfc.dev@gmail.com
-<br>
-  https://vnsoff.github.io/website_portfolio/
+https://vanessa-dev.vercel.app/
 </div>
-<br>
-<table>
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vnsoff&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top languages" height="150"/></td>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=vnsoff&show_icons=true&theme=dracula&locale=en" alt="GitHub stats" height="150"/></td>
-  <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vnsoff&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Streak" height="150"/></a></td>
-</table>
